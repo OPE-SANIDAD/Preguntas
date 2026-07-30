@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 1,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "1.- ¿Qué norma aprueba un Estatuto de Autonomía?",
+    "opts": [
+      "Una Ley orgánica.",
+      "Una ley ordinaria",
+      "Real Decreto",
+      "Decreto Ley"
+    ],
+    "correct": 0,
+    "expl": "Los Estatutos de Autonomía son aprobados mediante Ley Orgánica (Art. 81 CE)."
+  },
+  {
+    "id": 2,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "2.- Según el Título X de la Constitución Española los proyectos de reforma constitucional deberán ser aprobados por cada una de las cámaras por mayoría, señale la opción correcta",
+    "opts": [
+      "Mayoría simple",
+      "Mayoría de tres quintos",
+      "Mayoría absoluta",
+      "Mayoría dos tercios"
+    ],
+    "correct": 1,
+    "expl": "Los proyectos de reforma constitucional requieren aprobación de 3/5 de cada Cámara (Art. 167 CE)."
+  },
+  {
+    "id": 3,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "3.- Según el plan de igualdad de la Conselleria de sanidad y salud pública, y en relación con la conciliación de la vida personal, familiar y laboral: señale la opción INCORRECTA",
+    "opts": [
+      "Diseñar un apartado en la web destinado a publicaciones en materia de Igualdad, noticias, actuaciones de las unidades de igualdad, etc.",
+      "Estudiar la posibilidad de creación de escuelas infantiles en los centros de trabajo.",
+      "Favorecer el cumplimiento del derecho para que el cumplimiento de lactancia se pueda disfrutar por el padre, siendo necesario acreditar que la madre trabaja.",
+      "Posibilitar la exención de guardias por cuidado de hijo/hija en edad escolar."
+    ],
+    "correct": 2,
+    "expl": "No es necesario acreditar que la madre trabaja para el disfrute del permiso por el padre."
+  },
+  {
+    "id": 4,
+    "tipo": "comun",
+    "com": null,
+    "q": "4.- ¿Cómo se llama a las líneas horizontales de la hoja de cálculo que se identifican por números?",
+    "opts": [
+      "Filas",
+      "Celdas",
+      "Rango",
+      "Columnas"
+    ],
+    "correct": 0,
+    "expl": "Las filas son horizontales e identificadas por números."
+  },
+  {
+    "id": 5,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "5.- Según la Ley 31/1995, de 8 de noviembre, ¿Cuál es el órgano científico técnico especializado de la Administración General del Estado que tiene como misión el análisis y estudio de las condiciones de seguridad y salud en el trabajo, así como la promoción y apoyo a la mejora de las mismas?:",
+    "opts": [
+      "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "El Instituto Nacional de la Seguridad Social.",
+      "El Servicio de Prevención de Riesgos Laborales.",
+      "La Unidad Periférica de Prevención de Riesgos Laborales."
+    ],
+    "correct": 0,
+    "expl": "El INSHT (actual INSST) es el órgano científico-técnico especializado de la AGE."
+  },
+  {
+    "id": 6,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "6.- De acuerdo con el Reglamento de Selección y Provisión de Personal estatutario al servicio de instituciones sanitarias en relación con los órganos colegiados, señale la opción INCORRECTA",
+    "opts": [
+      "Los miembros del órgano colegiado deberán ostentar el grado II o superior de carrera o desarrollo profesional y haya manifestado su voluntad de pertenecer a dicho colegio.",
+      "El órgano colegiado será un tribunal en el que al menos la mitad de sus componentes pertenecerá a la misma categoría convocada.",
+      "Las personas componentes del tribunal deberán poseer titulación del nivel académico igual o superior a la exigida en el ingreso.",
+      "Las personas que formen parte de los órganos colegiados, incluido la presidencia y secretaría, serán designadas por sorteo realizado por la Comisión Asesora de Selección y Provisión."
+    ],
+    "correct": 0,
+    "expl": "Es incorrecto requerir manifestación de voluntad de pertenecer a dicho colegio en esas condiciones."
+  },
+  {
+    "id": 7,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "7.- Según el Estatuto Marco del Personal Estatutario, el personal estatutario se clasifica atendiendo a:",
+    "opts": [
+      "Su clasificación profesional, es decir, en personal facultativo, personal sanitario no facultativo y personal no sanitario.",
+      "La función desarrollada, al nivel del título exigido para el ingreso y al tipo de su nombramiento.",
+      "El grupo de su categoría profesional según el título que poseen, Grupo A, Grupo B, Grupo C y Grupo D.",
+      "La categoría profesional a la que pertenece, personal facultativo, personal sanitario no facultativo y personal no sanitario."
+    ],
+    "correct": 1,
+    "expl": "Se clasifica atendiendo a la función desarrollada, al nivel del título y al tipo de nombramiento (Art. 5 Estatuto Marco)."
+  },
+  {
+    "id": 8,
+    "tipo": "legislacion",
+    "com": "Comunidad Valenciana",
+    "q": "8.- En relación al Decreto 137/2003 por el que regula la jornada y horario de trabajo, permisos, licencias y vacaciones del personal al servicio de las Instituciones Sanitarias de la Generalitat dependientes de la Conselleria de Sanidad, señale la opción INCORRECTA",
+    "opts": [
+      "Por matrimonio o inscripción en el Registro de Uniones de Hecho, quince días naturales consecutivos.",
+      "Por enfermedad grave de un familiar hasta el cuarto grado de consanguinidad o segundo de afinidad, hasta cinco días, consecutivos o no, siempre que mientras tanto suceda hospitalización...",
+      "Por traslado del domicilio habitual, dos días naturales consecutivos.",
+      "Por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal."
+    ],
+    "correct": 1,
+    "expl": "Por enfermedad grave de familiar hasta 2º grado de consanguinidad o afinidad (no 4º)."
+  },
+  {
+    "id": 9,
+    "tipo": "comun",
+    "com": null,
+    "q": "9.- ¿Cuál de los siguientes documentos es relativo a la clínica y gestión hospitalaria?:",
+    "opts": [
+      "Documentos relativos a la gestión del laboratorio.",
+      "Documentos de compra.",
+      "Documentos de solicitud de análisis.",
+      "Documentos de atención al paciente."
+    ],
+    "correct": 2,
+    "expl": "La solicitud de análisis es el documento asistencial/clínico propio de gestión de laboratorio."
+  },
+  {
+    "id": 10,
+    "tipo": "comun",
+    "com": null,
+    "q": "10.- Los reactivos químicos, se clasifican como productos químicos de \"Clase C\" cuando su punto de inflamación:",
+    "opts": [
+      "Está comprendido entre 38 ºC y 55 ºC.",
+      "Es superior a 100 ºC.",
+      "Está comprendido entre 55 ºC y 100 ºC.",
+      "Es inferior a 55 ºC."
+    ],
+    "correct": 2,
+    "expl": "Clase C: Punto de inflamación comprendido entre 55 ºC y 100 ºC."
+  },
+  {
+    "id": 11,
+    "tipo": "comun",
+    "com": null,
+    "q": "11.- Una indicación de peligro H222 / H223 en un producto químico indica:",
+    "opts": [
+      "Peróxidos orgánicos.",
+      "Aerosol inflamable.",
+      "Irritación cutánea.",
+      "Líquido comburente."
+    ],
+    "correct": 1,
+    "expl": "H222 / H223 indican Aerosol inflamable (Categoría 1 / 2) según el sistema CLP/GHS."
+  },
+  {
+    "id": 12,
+    "tipo": "comun",
+    "com": null,
+    "q": "12.- Poner a punto y verificar los equipos de análisis y mantenimiento es un objetivo:",
+    "opts": [
+      "Del proceso analítico.",
+      "De la patología.",
+      "De gestión.",
+      "Específico."
+    ],
+    "correct": 3,
+    "expl": "Poner a punto y verificar los equipos es un objetivo específico de procedimiento/mantenimiento."
+  },
+  {
+    "id": 13,
+    "tipo": "comun",
+    "com": null,
+    "q": "13.- ¿Qué es el kitasato?",
+    "opts": [
+      "Una bureta.",
+      "Un matraz",
+      "Una pipeta",
+      "Una probeta"
+    ],
+    "correct": 1,
+    "expl": "El kitasato es un matraz de vidrio de pared gruesa con un tubo lateral."
+  },
+  {
+    "id": 14,
+    "tipo": "comun",
+    "com": null,
+    "q": "14.- ¿Cuál es la principal desventaja de la punción con aguja fina (PAAF)?",
+    "opts": [
+      "Es muy dolorosa",
+      "Produce grandes hematomas",
+      "Se obtiene un alto porcentaje de falsos negativos",
+      "No diferencia entre masas sólidas y quísticas"
+    ],
+    "correct": 2,
+    "expl": "La PAAF puede obtener un porcentaje considerable de falsos negativos por muestra insuficiente."
+  },
+  {
+    "id": 15,
+    "tipo": "comun",
+    "com": null,
+    "q": "15.- El objetivo de la formación de alícuotas es:",
+    "opts": [
+      "Clasificación de la muestra.",
+      "Repartir la muestra para varios análisis",
+      "Analizar la muestra inmediatamente",
+      "Comprobar la adecuación de la muestra"
+    ],
+    "correct": 1,
+    "expl": "Las alícuotas sirven para fraccionar y repartir la muestra para diferentes análisis."
+  },
+  {
+    "id": 16,
+    "tipo": "comun",
+    "com": null,
+    "q": "16.- Si queremos hacer una disolución con volumen aproximado utilizaremos un material no volumétrico llamado:",
+    "opts": [
+      "Bureta",
+      "Matraz aforado",
+      "Probeta",
+      "Vaso de precipitado"
+    ],
+    "correct": 3,
+    "expl": "El vaso de precipitados se usa para medidas de volumen aproximadas (no volumétrico)."
+  },
+  {
+    "id": 17,
+    "tipo": "comun",
+    "com": null,
+    "q": "17.- En relación al movimiento browniano de las moléculas señale la opción CORRECTA:",
+    "opts": [
+      "Las moléculas se mueven debido a la fuerza gravitatoria.",
+      "El movimiento browniano provoca que todas las moléculas migren de igual manera.",
+      "El movimiento browniano disminuye al aumentar la temperatura.",
+      "Las moléculas tienden a moverse de forma aleatoria debido a que poseen energía cinética propia."
+    ],
+    "correct": 3,
+    "expl": "El movimiento browniano se debe a la energía cinética propia que genera movimiento aleatorio."
+  },
+  {
+    "id": 18,
+    "tipo": "comun",
+    "com": null,
+    "q": "18.- En relación a la microscopia de campo oscuro señale la opción CORRECTA:",
+    "opts": [
+      "Es muy útil para muestras que tienen mucho contraste.",
+      "La dirección de la luz va hacia arriba pasa al ocular de la luz difractada.",
+      "Entre sus aplicaciones se encuentra el estudio en células muertas teñidas en suspensión.",
+      "Es muy útil para muestras que tienen poco contraste y que no pueden ser observadas por un microscopio de campo claro."
+    ],
+    "correct": 3,
+    "expl": "La microscopía de campo oscuro es ideal para muestras transparentes o de muy poco contraste."
+  },
+  {
+    "id": 19,
+    "tipo": "comun",
+    "com": null,
+    "q": "19.- En relación a parámetros estadísticos ¿Cuál de las siguientes es una medida de tendencia central?",
+    "opts": [
+      "Varianza",
+      "Desviación típica o estándar",
+      "Moda",
+      "Covarianza o Pearson"
+    ],
+    "correct": 2,
+    "expl": "La Moda es una medida de tendencia central (junto a Media y Mediana)."
+  },
+  {
+    "id": 20,
+    "tipo": "comun",
+    "com": null,
+    "q": "20.- La crioconservación de células de una línea celular... introduciremos en un tanque de nitrógeno líquido que se encuentra a una temperatura de:",
+    "opts": [
+      "-150 ºC",
+      "-99 ºC",
+      "-40 ºC",
+      "-196 ºC"
+    ],
+    "correct": 3,
+    "expl": "El nitrógeno líquido se encuentra a una temperatura de -196 ºC."
+  },
+  {
+    "id": 21,
+    "tipo": "comun",
+    "com": null,
+    "q": "21.- Cada molécula de ADN está formada por la combinación específica de desoxirribosa y cuatro bases nitrogenadas: Adenina, Guanina, Citosina y:",
+    "opts": [
+      "Timidina.",
+      "Timina.",
+      "Tiamina.",
+      "Tirosina."
+    ],
+    "correct": 1,
+    "expl": "Las bases nitrogenadas del ADN son Adenina, Guanina, Citosina y Timina."
+  },
+  {
+    "id": 22,
+    "tipo": "comun",
+    "com": null,
+    "q": "22.- Para la lectura de las moléculas en el método de separación electroforética en agarosa el colorante más común es:",
+    "opts": [
+      "azul violeta",
+      "azul de bromofenol",
+      "nitrato potásico",
+      "azul de metileno"
+    ],
+    "correct": 1,
+    "expl": "El azul de bromofenol se usa comúnmente como colorante de carga/frente de corrida en electroforesis."
+  },
+  {
+    "id": 23,
+    "tipo": "comun",
+    "com": null,
+    "q": "23.- Para la extracción de ARN todavía hoy se utilizan técnicas basadas en el uso de:",
+    "opts": [
+      "Fenol y Cloroformo.",
+      "Diclorometano y H2O2.",
+      "Metanol y Dietileter.",
+      "SDS-PAGE."
+    ],
+    "correct": 0,
+    "expl": "La extracción de ARN utiliza habitualmente reactivos con Fenol y Cloroformo (método TRIzol)."
+  },
+  {
+    "id": 24,
+    "tipo": "comun",
+    "com": null,
+    "q": "24.- Para realizar una reacción de PCR son necesarios: ADN molde, Primers, dNTP, Agua, Buffer, ADN polimerasa y:",
+    "opts": [
+      "Cloruro de Magnesio (MgCl2).",
+      "Yoduro de Plata (AgI).",
+      "Permanganato Potásico (KMNO4).",
+      "Sulfato de Cobre (CuSO4)."
+    ],
+    "correct": 0,
+    "expl": "La PCR requiere MgCl2 como cofactor esencial de la ADN polimerasa."
+  },
+  {
+    "id": 25,
+    "tipo": "comun",
+    "com": null,
+    "q": "25.- Tras la extracción de ADN, para comprobar la integridad de la muestra y su posible degradación podemos utilizar:",
+    "opts": [
+      "Un gel de poliacrilamida al 20 %.",
+      "Un gel de acrilamida/bisacriamida al 40 %.",
+      "Un gel de sílice al 15 %.",
+      "Un gel de agarosa al 0.8 %."
+    ],
+    "correct": 3,
+    "expl": "Para comprobar la integridad del ADN se utiliza electroforesis en gel de agarosa al 0.8%."
+  },
+  {
+    "id": 26,
+    "tipo": "comun",
+    "com": null,
+    "q": "26.- El estudio de la evolución de la enfermedad a lo largo del tiempo identificando las diferentes fases, se denomina:",
+    "opts": [
+      "Semiología.",
+      "Etiología.",
+      "Patogenia.",
+      "Patocronia."
+    ],
+    "correct": 3,
+    "expl": "La patocronia estudia la evolución de la enfermedad a lo largo del tiempo."
+  },
+  {
+    "id": 27,
+    "tipo": "comun",
+    "com": null,
+    "q": "27.- La inmunidad natural, también es conocida como:",
+    "opts": [
+      "Inmunidad innata.",
+      "Inmunidad específica.",
+      "Inmunidad adquirida.",
+      "Inmunidad adaptativa."
+    ],
+    "correct": 0,
+    "expl": "La inmunidad natural se conoce también como inmunidad innata."
+  },
+  {
+    "id": 28,
+    "tipo": "comun",
+    "com": null,
+    "q": "28.- ¿Cuál de los siguientes marcadores tumorales es el más específico para la detección del cáncer de próstata?",
+    "opts": [
+      "CEA.",
+      "PSA.",
+      "CA 15-3.",
+      "CA 125."
+    ],
+    "correct": 1,
+    "expl": "El PSA (Antígeno Prostático Específico) es el marcador tumoral característico de próstata."
+  },
+  {
+    "id": 29,
+    "tipo": "comun",
+    "com": null,
+    "q": "29.- Cuando el organismo tiene uno o más cromosomas de más, en uno de los pares cromosómicos, se denomina:",
+    "opts": [
+      "Poliploidía.",
+      "Haploidía.",
+      "Aneuploidía.",
+      "Traslocación."
+    ],
+    "correct": 2,
+    "expl": "La presencia de cromosomas de más o de menos en un par es una aneuploidía."
+  },
+  {
+    "id": 30,
+    "tipo": "comun",
+    "com": null,
+    "q": "30.- Indique en cuál de los siguientes desequilibrios ácido-base se produce disminución de la ventilación alveolar, aumento de CO2 y disminución del PH:",
+    "opts": [
+      "Alcalosis metabólica.",
+      "Alcalosis respiratoria.",
+      "Acidosis respiratoria.",
+      "Acidosis metabólica."
+    ],
+    "correct": 2,
+    "expl": "La disminución de ventilación con aumento de CO2 y bajada de pH define la acidosis respiratoria."
+  },
+  {
+    "id": 31,
+    "tipo": "comun",
+    "com": null,
+    "q": "31.- ¿Cuál de las siguientes patologías cursa con inflamación crónica del intestino delgado de carácter autoinmune...?",
+    "opts": [
+      "Enfermedad Celiaca.",
+      "Colitis ulcerosa.",
+      "Enfermedad de Crohn.",
+      "Hernia."
+    ],
+    "correct": 2,
+    "expl": "La Enfermedad de Crohn es una enfermedad inflamatoria intestinal autoinmune."
+  },
+  {
+    "id": 32,
+    "tipo": "comun",
+    "com": null,
+    "q": "32.- Un trastorno heredado del metabolismo del cobre que se manifiesta con una presencia 20 veces mayor de cobre en sangre, es:",
+    "opts": [
+      "Síndrome de Cushing.",
+      "Síndrome de Menkes.",
+      "Enfermedad de Wilson.",
+      "Hipofosfatemia."
+    ],
+    "correct": 2,
+    "expl": "La Enfermedad de Wilson es un trastorno hereditario del metabolismo del cobre."
+  },
+  {
+    "id": 33,
+    "tipo": "comun",
+    "com": null,
+    "q": "33.- Los valores normales de Osmolalidad en orina pueden oscilar entre:",
+    "opts": [
+      "300-800 milimoles/kg.",
+      "100-500 nanomoles/kg.",
+      "50-500 fentomoles/kg.",
+      "50-500 moles/kg."
+    ],
+    "correct": 0,
+    "expl": "La osmolalidad normal en orina oscila habitualmente entre 300 y 800 mOsm/kg."
+  },
+  {
+    "id": 34,
+    "tipo": "comun",
+    "com": null,
+    "q": "34.- Tras un análisis microscópico de una orina con pH ácido, podemos encontrarnos con cristales de:",
+    "opts": [
+      "Fosfato amónico magnésico.",
+      "Carbonato cálcico.",
+      "Fosfatos amorfos.",
+      "Uratos amorfos."
+    ],
+    "correct": 3,
+    "expl": "En orinas ácidas precipitan los cristales de uratos amorfos y ácido úrico."
+  },
+  {
+    "id": 35,
+    "tipo": "comun",
+    "com": null,
+    "q": "35.- Una de las patologías más frecuentemente asociada a la presencia de sangre oculta en heces es:",
+    "opts": [
+      "Cirrosis.",
+      "Cáncer de colon.",
+      "Pancreatitis",
+      "Litiasis Renal."
+    ],
+    "correct": 1,
+    "expl": "El cribado de cáncer de colon se realiza mediante la prueba de sangre oculta en heces."
+  },
+  {
+    "id": 36,
+    "tipo": "comun",
+    "com": null,
+    "q": "36.- ¿Cuál de los siguientes lípidos son una reserva energética fundamental y son utilizados para almacenar energía en el tejido adiposo?",
+    "opts": [
+      "El Colesterol.",
+      "Fosfolípidos.",
+      "Las Lipoproteínas.",
+      "Los triglicéridos."
+    ],
+    "correct": 3,
+    "expl": "Los triglicéridos son la principal reserva energética almacenada en el tejido adiposo."
+  },
+  {
+    "id": 37,
+    "tipo": "comun",
+    "com": null,
+    "q": "37.- ¿Cómo se denomina el ciclo, donde los principios activos... van a parar a la cadena de respiración electrónica?:",
+    "opts": [
+      "Ciclo de Krebs.",
+      "Vía de las pentosas fosfato.",
+      "Gluconeogénesis y ciclo de cori.",
+      "Glucólisis."
+    ],
+    "correct": 0,
+    "expl": "El ciclo de Krebs procesa acetil-CoA para obtener equivalentes reductores hacia la cadena respiratoria."
+  },
+  {
+    "id": 38,
+    "tipo": "comun",
+    "com": null,
+    "q": "38.- ¿Cuál es la isoenzima de la creatinquinasa CK con un 90% de presencia en el cerebro?",
+    "opts": [
+      "CK1.",
+      "CK2.",
+      "CK3.",
+      "CK4."
+    ],
+    "correct": 0,
+    "expl": "La isoenzima CK-BB (CK1) es predominantemente cerebral (>90%)."
+  },
+  {
+    "id": 39,
+    "tipo": "comun",
+    "com": null,
+    "q": "39.- La técnica en la que se marca el anticuerpo o el antígeno con un enzima se denomina:",
+    "opts": [
+      "RIA.",
+      "TIA.",
+      "FIA.",
+      "EIA."
+    ],
+    "correct": 3,
+    "expl": "EIA (Enzyme Immunoassay) o ELISA utiliza un enzima como marcador."
+  },
+  {
+    "id": 40,
+    "tipo": "comun",
+    "com": null,
+    "q": "40.- ¿Qué es la eritropoyetina?:",
+    "opts": [
+      "Una hormona pancreática.",
+      "Una hormona sexual.",
+      "Una hormona tisular.",
+      "Una hormona de las glándulas adrenales."
+    ],
+    "correct": 2,
+    "expl": "La eritropoyetina es una hormona glucoproteica/tisular producida principalmente en el riñón."
+  },
+  {
+    "id": 41,
+    "tipo": "comun",
+    "com": null,
+    "q": "41.- El hipertiroidismo está caracterizado por una alta producción de:",
+    "opts": [
+      "T1 y T2.",
+      "T3 y T4.",
+      "T5 y T6.",
+      "T7 y T8."
+    ],
+    "correct": 1,
+    "expl": "El hipertiroidismo cursa con hiperproducción de hormonas tiroideas T3 y T4."
+  },
+  {
+    "id": 42,
+    "tipo": "comun",
+    "com": null,
+    "q": "42.- En la respuesta inmunitaria humoral primaria, al tiempo que tarda el organismo en seleccionar un clon específico de LB... se denomina:",
+    "opts": [
+      "Periodo ventana.",
+      "Seroconversión.",
+      "Seroincremento.",
+      "Fase de retardo."
+    ],
+    "correct": 3,
+    "expl": "La fase de retardo (lag phase) es el periodo de latencia hasta la aparición de anticuerpos."
+  },
+  {
+    "id": 43,
+    "tipo": "comun",
+    "com": null,
+    "q": "43.- La Nefelometría es una técnica que mide:",
+    "opts": [
+      "La luz incidente.",
+      "La luz dispersada.",
+      "La luz absorbida.",
+      "La luz inducida."
+    ],
+    "correct": 1,
+    "expl": "La nefelometría mide la luz dispersada por las partículas en suspensión."
+  },
+  {
+    "id": 44,
+    "tipo": "comun",
+    "com": null,
+    "q": "44.- La enfermedad autoinmune caracterizada por cursar con debilidad muscular episódica, ptosis palpebral, diplopía... se denomina:",
+    "opts": [
+      "Anemia perniciosa autoinmune.",
+      "Miastenia gravis.",
+      "Tiroiditis de Hashimoto.",
+      "Síndrome de Goodpasture."
+    ],
+    "correct": 1,
+    "expl": "La Miastenia Gravis es una enfermedad autoinmune caracterizada por debilidad muscular episódica y ptosis."
+  },
+  {
+    "id": 45,
+    "tipo": "comun",
+    "com": null,
+    "q": "45.- Los anticuerpos antitopoisomerasa I, son prácticamente específicos de la ES (Esclerosis Sistémica) también conocidos como:",
+    "opts": [
+      "Scl-70.",
+      "ICA.",
+      "IAA.",
+      "GADA."
+    ],
+    "correct": 0,
+    "expl": "Los anticuerpos Anti-Scl-70 (antitopoisomerasa I) son específicos de la esclerosis sistémica."
+  },
+  {
+    "id": 46,
+    "tipo": "comun",
+    "com": null,
+    "q": "46.- ¿Para qué se utiliza la tinción Gomori-Grocott modificada?:",
+    "opts": [
+      "Para visualizar estructuras víricas.",
+      "Para la detección de la cápsula criptococcus neoformans.",
+      "Para la detección de anticuerpos específicos.",
+      "Para la detección de Pneumocystis jiroveci"
+    ],
+    "correct": 3,
+    "expl": "La tinción de Gomori-Grocott se utiliza para identificar Pneumocystis jiroveci y hongos."
+  },
+  {
+    "id": 47,
+    "tipo": "comun",
+    "com": null,
+    "q": "47.- La Cisteína es un agente reductor que se emplea:",
+    "opts": [
+      "Para inhibir el crecimiento de Gram-negativos",
+      "Para detectar la actividad de la coagulosa",
+      "Para inhibir el crecimiento de Gram-positivos",
+      "Para el crecimiento de microorganismos microaerofilos o anaerobios"
+    ],
+    "correct": 3,
+    "expl": "La cisteína actúa como agente reductor facilitando el crecimiento de microorganismos anaerobios."
+  },
+  {
+    "id": 48,
+    "tipo": "comun",
+    "com": null,
+    "q": "48.- El género Rickettsia está constituido por cocobacilos gramnegativos pequeños ¿En qué tipo de tinción se ven débilmente?:",
+    "opts": [
+      "Azul metileno",
+      "Tinción Giemsa",
+      "Tinción de Leifson",
+      "Tinción de Gram"
+    ],
+    "correct": 1,
+    "expl": "Rickettsia se tiñe mal con Gram, pero se visualiza bien con tinción Giemsa o Gimenez."
+  },
+  {
+    "id": 49,
+    "tipo": "comun",
+    "com": null,
+    "q": "49.- ¿Qué suspensión bacteriana es la utilizada más frecuentemente para la determinación de CMI mediante difusión en placa?:",
+    "opts": [
+      "0,25 McFarland",
+      "0,5 McFarland",
+      "0,1 McFarland",
+      "1,5 McFarland"
+    ],
+    "correct": 1,
+    "expl": "Se utiliza una suspensión estándar de 0.5 McFarland para los antibiogramas."
+  },
+  {
+    "id": 50,
+    "tipo": "comun",
+    "com": null,
+    "q": "50.- Los parásitos según la fuente de nutrición se clasifican en:",
+    "opts": [
+      "Ectoparásitos y endoparásitos",
+      "Facultativos u obligados",
+      "Holoparasitos y hemiparasitos",
+      "Monoxenos y heteroxenos"
+    ],
+    "correct": 1,
+    "expl": "Según la dependencia del hospedador se clasifican en parásitos facultativos u obligados."
+  },
+  {
+    "id": 51,
+    "tipo": "comun",
+    "com": null,
+    "q": "51.- ¿Cuál de los siguientes virus pertenece a la familia Retroviridae?:",
+    "opts": [
+      "Virus hepatitis B (VHB)",
+      "Virus herpes simple (VHS)",
+      "Virus inmunodeficiencia humana (VIH)",
+      "Adenovirus (ADS)"
+    ],
+    "correct": 2,
+    "expl": "El VIH (Virus de la Inmunodeficiencia Humana) pertenece a la familia Retroviridae."
+  },
+  {
+    "id": 52,
+    "tipo": "comun",
+    "com": null,
+    "q": "52.- ¿A cuál de las siguientes especies, pertenece el parásito sanguíneo Plasmodium?",
+    "opts": [
+      "Falciparum.",
+      "Cruzi.",
+      "Gondii.",
+      "Donovani."
+    ],
+    "correct": 0,
+    "expl": "Plasmodium falciparum es una de las especies causantes de la malaria."
+  },
+  {
+    "id": 53,
+    "tipo": "comun",
+    "com": null,
+    "q": "53.- ¿Cuál de los siguientes es un órgano linfoide primario?",
+    "opts": [
+      "Timo.",
+      "Bazo.",
+      "Ganglios linfáticos.",
+      "Amígdalas."
+    ],
+    "correct": 0,
+    "expl": "El Timo (junto a la médula ósea) es un órgano linfoide primario."
+  },
+  {
+    "id": 54,
+    "tipo": "comun",
+    "com": null,
+    "q": "54.- ¿Cuál es la primera célula precursora de la serie roja?",
+    "opts": [
+      "Eritroblasto.",
+      "Normoblasto basófilo.",
+      "Proeritrocito.",
+      "Proeritroblasto."
+    ],
+    "correct": 3,
+    "expl": "El proeritroblasto es la primera célula precursora reconocible de la serie eritroide."
+  },
+  {
+    "id": 55,
+    "tipo": "comun",
+    "com": null,
+    "q": "55.- De los siguientes, ¿Cuál es un índice eritrocitario primario?.",
+    "opts": [
+      "Volumen Corpuscular medio.",
+      "Concentración de Hemoglobina corpuscular media.",
+      "Hematocrito.",
+      "Hemoglobina corpuscular media."
+    ],
+    "correct": 2,
+    "expl": "Los índices primarios son el recuento de hematíes, hemoglobina y hematocrito."
+  },
+  {
+    "id": 56,
+    "tipo": "comun",
+    "com": null,
+    "q": "56.- Los hematíes de una persona con grupo sanguíneo AB, tendrán los siguientes Anticuerpos.",
+    "opts": [
+      "Anti-B.",
+      "Anti-A.",
+      "Anti-AB.",
+      "Ninguno."
+    ],
+    "correct": 3,
+    "expl": "Una persona de grupo AB no posee anticuerpos anti-A ni anti-B en el plasma."
+  },
+  {
+    "id": 57,
+    "tipo": "comun",
+    "com": null,
+    "q": "57.- Según la forma de su núcleo los leucocitos se clasifican en:",
+    "opts": [
+      "Fagocitos, inmunocitos y basófilos.",
+      "Granulocitos y agranulocitos.",
+      "Mieloides y linfoides.",
+      "Polimorfonucleares y mononucleares."
+    ],
+    "correct": 3,
+    "expl": "Por la forma de su núcleo se dividen en polimorfonucleares y mononucleares."
+  },
+  {
+    "id": 58,
+    "tipo": "comun",
+    "com": null,
+    "q": "58.- ¿Qué trastorno genético se hereda de una forma autosómica recesiva y consiste en la ausencia o disminución del receptor plaquetario GPIIb/IIIa.?",
+    "opts": [
+      "Trombastenia de Glanzmann.",
+      "Síndrome de Bernard-Soulier.",
+      "Síndrome de plaquetas grises.",
+      "Síndrome de Chediak-Higashi."
+    ],
+    "correct": 0,
+    "expl": "La Trombastenia de Glanzmann es la deficiencia autosómica recesiva de GPIIb/IIIa."
+  },
+  {
+    "id": 59,
+    "tipo": "comun",
+    "com": null,
+    "q": "59.- Indique cuál de los siguientes anticuerpos puede producir la enfermedad hemolítica del recién nacido.",
+    "opts": [
+      "IgG.",
+      "IgM.",
+      "IgE.",
+      "IgA."
+    ],
+    "correct": 0,
+    "expl": "La IgG atraviesa la placenta y es responsable de la enfermedad hemolítica del recién nacido."
+  },
+  {
+    "id": 60,
+    "tipo": "comun",
+    "com": null,
+    "q": "60.- Una persona en el grupo B+, puede donar a:",
+    "opts": [
+      "A+, AB+.",
+      "A+,O+,B+,AB+.",
+      "B+, B-, AB+,AB-",
+      "B+,AB+."
+    ],
+    "correct": 3,
+    "expl": "El grupo B+ puede donar a receptores B+ y AB+."
+  },
+  {
+    "id": 61,
+    "tipo": "comun",
+    "com": null,
+    "q": "1. El fluoruro sódico, como anticoagulante, se recomienda para la determinación de:",
+    "opts": [
+      "Metanol.",
+      "Benzodiacepina.",
+      "Cocaína.",
+      "Alcohol etílico."
+    ],
+    "correct": 3,
+    "expl": "El fluoruro sódico es el inhibidor de la glucólisis y anticoagulante de elección para determinaciones de alcohol etílico (etanol) y glucosa."
+  },
+  {
+    "id": 62,
+    "tipo": "comun",
+    "com": null,
+    "q": "2. Cuando la neutrofilia va acompañada de la presencia de formas jóvenes de neutrófilos se denomina:",
+    "opts": [
+      "Neutrofilia incipiente.",
+      "Neutrofilia con desviación a la izquierda.",
+      "Neutrofilia leve.",
+      "Neutrofilia activa."
+    ],
+    "correct": 1,
+    "expl": "La presencia de formas jóvenes (cayados, metamielocitos) en sangre periférica se conoce como desviación a la izquierda."
+  },
+  {
+    "id": 63,
+    "tipo": "comun",
+    "com": null,
+    "q": "3. ¿Cuál de las siguientes técnicas usaría, preferentemente, para separar fragmentos de ADN?:",
+    "opts": [
+      "Potenciometría.",
+      "Espectrofotometría.",
+      "Nefelometría.",
+      "Electroforesis."
+    ],
+    "correct": 3,
+    "expl": "La electroforesis en gel de agarosa o poliacrilamida es la técnica estándar para separar fragmentos de ADN."
+  },
+  {
+    "id": 64,
+    "tipo": "comun",
+    "com": null,
+    "q": "4. Es un método indirecto para la identificación de virus:",
+    "opts": [
+      "Sondas de hibridación.",
+      "Inmunofluorescencia directa.",
+      "Reacción en Cadena de la Polimerasa (PCR).",
+      "Inhibición de la hemoaglutinación."
+    ],
+    "correct": 3,
+    "expl": "La inhibición de la hemoaglutinación mide la presencia de anticuerpos específicos (método serológico/indirecto)."
+  },
+  {
+    "id": 65,
+    "tipo": "comun",
+    "com": null,
+    "q": "5. La prueba de Coombs determina:",
+    "opts": [
+      "Presencia de anticuerpos anti Rh.",
+      "Hipoxia fetal.",
+      "Alteraciones inmunológicas.",
+      "Cariotipo fetal."
+    ],
+    "correct": 0,
+    "expl": "La prueba de Coombs busca anticuerpos dirigidos contra los antígenos eritrocitarios, como los del sistema Rh."
+  },
+  {
+    "id": 66,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "6. ¿Cuál de los siguientes es un derecho básico asistencial? (señale la respuesta correcta) (Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud):",
+    "opts": [
+      "Disponer de una segunda opinión facultativa sobre su proceso.",
+      "Recibir asistencia sanitaria en su comunidad autónoma de residencia en un tiempo máximo.",
+      "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir.",
+      "Todas son correctas."
+    ],
+    "correct": 3,
+    "expl": "La Ley 16/2003 establece y contempla todos estos derechos asistenciales básicos del paciente."
+  },
+  {
+    "id": 67,
+    "tipo": "comun",
+    "com": null,
+    "q": "7. ¿Qué tipo de cristales esperaría encontrar en el examen microscópico de una orina con pH alcalino?:",
+    "opts": [
+      "Fosfato amónico magnésico.",
+      "Oxalato cálcico.",
+      "Ácido úrico.",
+      "Tirosina."
+    ],
+    "correct": 0,
+    "expl": "Los cristales de fosfato amónico magnésico (estruvita) precipitan en orinas alcalinas."
+  },
+  {
+    "id": 68,
+    "tipo": "comun",
+    "com": null,
+    "q": "8. Los niveles de marcadores tumorales tras una exploración o manipulación en el paciente:",
+    "opts": [
+      "No se alteran nunca.",
+      "No se deben estudiar en ese momento.",
+      "Pueden aumentar tras la manipulación.",
+      "B y C son ciertas."
+    ],
+    "correct": 3,
+    "expl": "La manipulación física (ej. tacto rectal para PSA) puede causar elevaciones falsas, por lo que no deben determinarse inmediatamente tras ella."
+  },
+  {
+    "id": 69,
+    "tipo": "comun",
+    "com": null,
+    "q": "9. La prueba de Rumpel-leede es:",
+    "opts": [
+      "La prueba del tiempo de coagulación.",
+      "La prueba del tiempo de obturación.",
+      "La prueba del torniquete.",
+      "La prueba del tiempo de sangría."
+    ],
+    "correct": 2,
+    "expl": "La prueba de Rumpel-Leede o del torniquete mide la fragilidad capilar."
+  },
+  {
+    "id": 70,
+    "tipo": "comun",
+    "com": null,
+    "q": "10. Es un medio estándar para el aislamiento de hongos:",
+    "opts": [
+      "Agar Thayer - Martin.",
+      "Agar manitol salado.",
+      "Agar dextrosa Sabouraud.",
+      "Agar Hektoen."
+    ],
+    "correct": 2,
+    "expl": "El agar Sabouraud es el medio de cultivo estándar utilizado para el aislamiento de hongos y levaduras."
+  },
+  {
+    "id": 71,
+    "tipo": "comun",
+    "com": null,
+    "q": "11. El método de Graham se utiliza para el diagnóstico de:",
+    "opts": [
+      "Trichomonas vaginalis.",
+      "Enterobius vermicularis.",
+      "Ascaris lumbricoides.",
+      "Fasciola hepática."
+    ],
+    "correct": 1,
+    "expl": "El método de la cinta adhesiva o test de Graham se emplea para la detección de huevos de Enterobius vermicularis (oxiuro)."
+  },
+  {
+    "id": 72,
+    "tipo": "comun",
+    "com": null,
+    "q": "12. El vaso arterial que lleva sangre desoxigenada es:",
+    "opts": [
+      "Arteria hepática.",
+      "Arteria pedia.",
+      "Arteria pulmonar.",
+      "Aorta."
+    ],
+    "correct": 2,
+    "expl": "La arteria pulmonar transporta la sangre desoxigenada desde el ventrículo derecho hacia los pulmones."
+  },
+  {
+    "id": 73,
+    "tipo": "comun",
+    "com": null,
+    "q": "13. Una alteración de las heces hipocólicas puede aparecer por:",
+    "opts": [
+      "Hemorragias.",
+      "Ingesta de verduras.",
+      "Ausencia de bilis en el intestino.",
+      "Melenas."
+    ],
+    "correct": 2,
+    "expl": "Las heces pálidas e hipocólicas se producen por falta de pigmentos biliares (estercobilina) en el intestino."
+  },
+  {
+    "id": 74,
+    "tipo": "comun",
+    "com": null,
+    "q": "14. En los cultivos celulares, la adición de colchicina a las células tiene como finalidad:",
+    "opts": [
+      "Eliminar los hematíes.",
+      "Inducir la división celular.",
+      "Actuar como agente microbiano.",
+      "Detener el proceso de división celular en metafase."
+    ],
+    "correct": 3,
+    "expl": "La colchicina inhibe la formación del huso acromático, deteniendo las células en metafase para el estudio de cariotipos."
+  },
+  {
+    "id": 75,
+    "tipo": "comun",
+    "com": null,
+    "q": "15. Los residuos tipo II son:",
+    "opts": [
+      "Generales.",
+      "Biosanitarios especiales.",
+      "Asimilables a urbanos.",
+      "Químicos."
+    ],
+    "correct": 2,
+    "expl": "En la clasificación de residuos sanitarios, el Tipo II corresponde a residuos biosanitarios sin riesgo especial (asimilables a urbanos)."
+  },
+  {
+    "id": 76,
+    "tipo": "comun",
+    "com": null,
+    "q": "16. La separación de sustancias basada en las diferencias de densidad de las partículas se denomina:",
+    "opts": [
+      "Electroforesis.",
+      "Centrifugación.",
+      "Cromatografía.",
+      "Radioinmunoanálisis."
+    ],
+    "correct": 1,
+    "expl": "La centrifugación separa componentes en un medio líquido atendiendo a su tamaño, forma y masa/densidad."
+  },
+  {
+    "id": 77,
+    "tipo": "comun",
+    "com": null,
+    "q": "17. El medio habitual para realizar un antibiograma mediante la técnica de difusión es:",
+    "opts": [
+      "Agar chocolate.",
+      "Agar Kligler.",
+      "Caldo Mueller-Hinton.",
+      "Agar Mueller-Hinton."
+    ],
+    "correct": 3,
+    "expl": "El agar Mueller-Hinton es el estándar internacional para el test de susceptibilidad antimicrobiana por difusión en disco."
+  },
+  {
+    "id": 78,
+    "tipo": "comun",
+    "com": null,
+    "q": "18. Solicitan iones de un suero. ¿Cuál de estos iones es un anión?:",
+    "opts": [
+      "Cloro.",
+      "Potasio.",
+      "Sodio.",
+      "Calcio."
+    ],
+    "correct": 0,
+    "expl": "El cloro (Cl−) es un ion con carga negativa (anión), mientras que K+, Na+ y Ca2+ son cationes."
+  },
+  {
+    "id": 79,
+    "tipo": "comun",
+    "com": null,
+    "q": "19. En un examen macroscópico de las heces podemos encontrar:",
+    "opts": [
+      "Grasas.",
+      "Cristales.",
+      "Trozos de mucosa epitelial.",
+      "A y C son ciertas."
+    ],
+    "correct": 3,
+    "expl": "Macroscópicamente se observan esteatorrea (grasas visibles) o restos mucosos y epiteliales; los cristales requieren examen microscópico."
+  },
+  {
+    "id": 80,
+    "tipo": "comun",
+    "com": null,
+    "q": "20. Señale la afirmación correcta acerca del ADN mitocondrial:",
+    "opts": [
+      "Es una molécula monocatenaria, circular y de herencia materna.",
+      "Es una molécula bicatenaria, circular y de herencia materna.",
+      "Es una molécula monocatenaria, circular y de herencia paterna.",
+      "Es una molécula bicatenaria, circular y de herencia paterna."
+    ],
+    "correct": 1,
+    "expl": "El ADN mitocondrial es una molécula de ADN bicatenario circular que se hereda de forma exclusiva por vía materna."
+  },
+  {
+    "id": 81,
+    "tipo": "comun",
+    "com": null,
+    "q": "21. El Ciclo Formativo de Grado Superior Laboratorio Clínico y Biomédico tiene una duración de:",
+    "opts": [
+      "Un curso académico.",
+      "Cuatro cursos académicos.",
+      "Dos cursos académicos.",
+      "Todo lo anterior es falso."
+    ],
+    "correct": 2,
+    "expl": "La formación profesional de Grado Superior en España consta de 2000 horas distribuidas en dos cursos académicos."
+  },
+  {
+    "id": 82,
+    "tipo": "comun",
+    "com": null,
+    "q": "22. En la curva de crecimiento bacteriano, la fase en la que el微生物 se adapta a las nuevas condiciones de crecimiento y hay aumento de masa celular, se denomina:",
+    "opts": [
+      "De latencia.",
+      "Crecimiento exponencial.",
+      "Estacionaria.",
+      "De muerte celular."
+    ],
+    "correct": 0,
+    "expl": "Durante la fase de latencia o 'lag', los microorganismos se adaptan al medio sintetizando enzimas sin dividirse activamente."
+  },
+  {
+    "id": 83,
+    "tipo": "comun",
+    "com": null,
+    "q": "23. En el estudio del cáncer de ovario, se emplean:",
+    "opts": [
+      "Ca125.",
+      "PSA.",
+      "HE4.",
+      "A y C son correctas."
+    ],
+    "correct": 3,
+    "expl": "CA125 y HE4 son los principales marcadores tumorales séricos empleados en la evaluación y seguimiento del cáncer de ovario."
+  },
+  {
+    "id": 84,
+    "tipo": "comun",
+    "com": null,
+    "q": "24. Respecto a los antisépticos y desinfectantes, ¿qué afirmación es verdadera?:",
+    "opts": [
+      "El desinfectante se utiliza sobre superficies inertes u objetos inanimados.",
+      "El antiséptico es más potente que el desinfectante.",
+      "El antiséptico se utiliza en concentraciones que pueden tener efectos tóxicos o irritantes sobre los organismos vivos.",
+      "Al bajar la temperatura aumenta la acción desinfectante."
+    ],
+    "correct": 0,
+    "expl": "Los desinfectantes se aplican exclusivamente sobre fómites o superficies inertes, mientras que los antisépticos se aplican sobre tejidos vivos."
+  },
+  {
+    "id": 85,
+    "tipo": "comun",
+    "com": null,
+    "q": "25. El mejor parámetro para valorar la anemia ferropénica es:",
+    "opts": [
+      "Hierro.",
+      "Ferritina.",
+      "Índice de saturación de transferrina.",
+      "Hepcidina."
+    ],
+    "correct": 1,
+    "expl": "La ferritina sérica refleja los depósitos de hierro corporales y es la prueba más sensible para confirmar la ferropenia."
+  },
+  {
+    "id": 86,
+    "tipo": "comun",
+    "com": null,
+    "q": "26. ¿Cuál de los siguientes parámetros muestra mayores diferencias entre sangre venosa y arterial?:",
+    "opts": [
+      "CO2​ total.",
+      "pO2​.",
+      "pCO2​.",
+      "pH."
+    ],
+    "correct": 1,
+    "expl": "La presión parcial de oxígeno (pO2​) varía drásticamente entre sangre arterial (~90-100 mmHg) y venosa (~40 mmHg)."
+  },
+  {
+    "id": 87,
+    "tipo": "comun",
+    "com": null,
+    "q": "27. En la tinción de auramina-rodamina, la solución de contraste más utilizada es:",
+    "opts": [
+      "Fucsina.",
+      "Permanganato potásico.",
+      "Rodamina.",
+      "Naranja de acridina."
+    ],
+    "correct": 1,
+    "expl": "El permanganato potásico se utiliza como viraje/contraste de fondo oscuro para anular la fluorescencia inespecífica."
+  },
+  {
+    "id": 88,
+    "tipo": "comun",
+    "com": null,
+    "q": "28. El valor normal de pH en sangre arterial es:",
+    "opts": [
+      "7,45 a 7,55.",
+      "7,25 a 7,35.",
+      "7,35 a 7,45.",
+      "7,15 a 7,25."
+    ],
+    "correct": 2,
+    "expl": "El rango de pH fisiológico en sangre arterial humana oscila estrechamente entre 7,35 y 7,45."
+  },
+  {
+    "id": 89,
+    "tipo": "comun",
+    "com": null,
+    "q": "29. Respecto al uso de reactivos químicos en el laboratorio, las medidas de seguridad que se deben adoptar para su manejo se pueden encontrar en:",
+    "opts": [
+      "La etiqueta.",
+      "La ficha de seguridad.",
+      "El procedimiento de trabajo.",
+      "Hay más de una respuesta correcta."
+    ],
+    "correct": 3,
+    "expl": "La información de seguridad está descrita tanto en el etiquetado del frasco como en las Fichas de Datos de Seguridad (FDS)."
+  },
+  {
+    "id": 90,
+    "tipo": "comun",
+    "com": null,
+    "q": "30. La determinación de la homocisteína y ácido metilmalónico se utiliza para detectar el déficit de:",
+    "opts": [
+      "Vitamina B12.",
+      "Vitamina K.",
+      "Vitamina D.",
+      "Hierro."
+    ],
+    "correct": 0,
+    "expl": "El déficit de cobalamina (vitamina B12) provoca la acumulación sérica de ácido metilmalónico y homocisteína."
+  },
+  {
+    "id": 91,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "31. Según el Estatuto de Autonomía para la Región de Murcia (Ley Orgánica 4/1982, de 9 de junio), ¿qué órgano ostenta la potestad legislativa?:",
+    "opts": [
+      "La Asamblea Regional.",
+      "El Presidente.",
+      "El Consejo de Gobierno.",
+      "Ninguna es correcta."
+    ],
+    "correct": 0,
+    "expl": "La Asamblea Regional de Murcia ejerce la función y potestad legislativa de la comunidad autónoma."
+  },
+  {
+    "id": 92,
+    "tipo": "comun",
+    "com": null,
+    "q": "32. Sobre el método de Northen, es cierto que:",
+    "opts": [
+      "Permite detectar proteínas.",
+      "Se utiliza para caracterizar la organización del DNA.",
+      "Se utiliza para detectar moléculas de RNA mensajero y su tamaño.",
+      "No existe el método de Northen."
+    ],
+    "correct": 2,
+    "expl": "El método Northern blot es la técnica de transferencia para la identificación y análisis del ARN."
+  },
+  {
+    "id": 93,
+    "tipo": "comun",
+    "com": null,
+    "q": "33. La tinción azul cresil brillante permite diferenciar los hematíes de:",
+    "opts": [
+      "Los reticulocitos.",
+      "Los neutrófilos.",
+      "Los cayados.",
+      "Los basófilos."
+    ],
+    "correct": 0,
+    "expl": "El azul de cresil brillante es una tinción supravital que precipita la red de ARN presente en los reticulocitos."
+  },
+  {
+    "id": 94,
+    "tipo": "comun",
+    "com": null,
+    "q": "34. En general, la recogida del esputo para su análisis debe proceder de:",
+    "opts": [
+      "Vías respiratorias bajas.",
+      "Vías respiratorias altas.",
+      "Saliva.",
+      "Faringe."
+    ],
+    "correct": 0,
+    "expl": "Para ser representativo de una infección broncopulmonar, el esputo debe proceder de las vías respiratorias bajas mediante expectoración profunda."
+  },
+  {
+    "id": 95,
+    "tipo": "comun",
+    "com": null,
+    "q": "35. ¿Cuál de estos azúcares se utiliza en una prueba hepática?:",
+    "opts": [
+      "Maltosa.",
+      "Galactosa.",
+      "Lactosa.",
+      "Glucosa."
+    ],
+    "correct": 1,
+    "expl": "La prueba de eliminación o aclaramiento de galactosa mide de forma cuantitativa la masa funcional hepática."
+  },
+  {
+    "id": 96,
+    "tipo": "comun",
+    "com": null,
+    "q": "36. Dentro de las mutaciones cromosómicas, ¿cómo se llama el aumento o disminución del número de cromosomas?:",
+    "opts": [
+      "Aneuploidía.",
+      "Poliploidía.",
+      "Traslocación.",
+      "Deleción."
+    ],
+    "correct": 0,
+    "expl": "La aneuploidía es una anomalía numérica en la cual la célula presenta uno o varios cromosomas de más o de menos."
+  },
+  {
+    "id": 97,
+    "tipo": "comun",
+    "com": null,
+    "q": "37. El anticoagulante lúpico puede provocar:",
+    "opts": [
+      "Alargamiento del Tiempo de Tromboplastina Parcial Activada (TPPA).",
+      "Clínica de trombosis arterial y/o venosa.",
+      "A y B son ciertas.",
+      "A y B son falsas."
+    ],
+    "correct": 2,
+    "expl": "Paradójicamente, en el laboratorio alarga el TPPA in vitro, pero en el organismo (in vivo) produce eventos trombóticos."
+  },
+  {
+    "id": 98,
+    "tipo": "comun",
+    "com": null,
+    "q": "38. Un cultivo celular establecido a partir de un tejido u órgano, en muchos casos de un tumor y que se mantiene en cultivo un tiempo ilimitado, se denomina:",
+    "opts": [
+      "Línea primaria.",
+      "Cultivo primario.",
+      "Línea celular continua.",
+      "Cultivo inicial."
+    ],
+    "correct": 2,
+    "expl": "Las líneas celulares continuas están inmortalizadas y son capaces de proliferar indefinidamente."
+  },
+  {
+    "id": 99,
+    "tipo": "comun",
+    "com": null,
+    "q": "39. En la proteinuria glomerular selectiva, el patrón electroforético de orina muestra:",
+    "opts": [
+      "Un bajo porcentaje de albúmina.",
+      "Un aumento de la concentración total de proteínas.",
+      "Un gran número de fracciones séricas de elevado peso molecular.",
+      "Una elevación de albúmina."
+    ],
+    "correct": 3,
+    "expl": "En la proteinuria glomerular selectiva se pierde principalmente la albúmina debido al aumento de permeabilidad de la membrana basal."
+  },
+  {
+    "id": 100,
+    "tipo": "comun",
+    "com": null,
+    "q": "40. ¿Cuál de los siguientes cristales NO se observa habitualmente en orinas de pH superior a 6,5?:",
+    "opts": [
+      "Estruvita.",
+      "Fosfato cálcico.",
+      "Ácido úrico.",
+      "Cistina."
+    ],
+    "correct": 2,
+    "expl": "El ácido úrico y sus cristales precipitan casi exclusivamente en orinas con pH ácido (< 5,5 a 6,0)."
+  },
+  {
+    "id": 101,
+    "tipo": "comun",
+    "com": null,
+    "q": "41. De los siguientes marcadores bioquímicos, ¿cuál muestra una elevación más precoz en la necrosis cardiaca?:",
+    "opts": [
+      "Mioglobina.",
+      "Isoformas MB1 y MB2 de CK-MB.",
+      "Troponinas I y T.",
+      "AST."
+    ],
+    "correct": 0,
+    "expl": "La mioglobina es la primera proteína que se libera al torrente sanguíneo tras el daño miocárdico (2 horas post-infarto)."
+  },
+  {
+    "id": 102,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "42. Según el artículo 148 de la Constitución Española, ¿en cuál de las siguientes materias podrán asumir competencias las Comunidades Autónomas?:",
+    "opts": [
+      "Relaciones internacionales.",
+      "Defensa y Fuerzas Armadas.",
+      "Hacienda General y Deuda del Estado.",
+      "Sanidad e Higiene."
+    ],
+    "correct": 3,
+    "expl": "La Sanidad e Higiene se contempla dentro del listado de competencias asumibles por las CCAA (Art. 148.1.21ª CE)."
+  },
+  {
+    "id": 103,
+    "tipo": "comun",
+    "com": null,
+    "q": "43. Un anticuerpo producido por un individuo, que está dirigido contra un antígeno eritrocitario que el individuo no tiene, se denomina:",
+    "opts": [
+      "Crioaglutinina.",
+      "Aloanticuerpo.",
+      "Autoanticuerpo.",
+      "Ninguna de las anteriores es cierta."
+    ],
+    "correct": 1,
+    "expl": "Un aloanticuerpo se produce tras la exposición a antígenos no propios de la misma especie (ej. trasfusiones/embarazo)."
+  },
+  {
+    "id": 104,
+    "tipo": "comun",
+    "com": null,
+    "q": "44. Los métodos químicos para la determinación del colesterol se basan en:",
+    "opts": [
+      "Reacciones cromogénicas.",
+      "Reacciones isoeléctricas.",
+      "Reacciones enzimáticas.",
+      "Antiglobulina indirecta."
+    ],
+    "correct": 2,
+    "expl": "En la actualidad, el colesterol sérico se mide de forma estándar mediante métodos enzimático-colorimétricos (Colesterol Oxidasa)."
+  },
+  {
+    "id": 105,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "45. El conjunto de documentos que contienen los datos, valoraciones e informaciones de cualquier índole sobre la situación y la evolución clínica de un paciente a lo largo del proceso asistencial, se denomina:",
+    "opts": [
+      "Historia clínica.",
+      "Informe de cuidados.",
+      "Hojas de tratamiento.",
+      "Orden de ingreso."
+    ],
+    "correct": 0,
+    "expl": "La Ley 41/2002 define de esta forma explícita el concepto de Historia Clínica del paciente."
+  },
+  {
+    "id": 106,
+    "tipo": "comun",
+    "com": null,
+    "q": "46. Una campana de seguridad con presión negativa:",
+    "opts": [
+      "Es un habitáculo que extrae cualquier partícula contaminante de su interior.",
+      "Sirve para evitar que el manipulador contamine la muestra.",
+      "Es un habitáculo que impide que cualquier partícula contaminante entre en su interior.",
+      "Las respuestas B y C son correctas."
+    ],
+    "correct": 0,
+    "expl": "La presión negativa genera un flujo hacia adentro que succiona las partículas y evita que salgan al ambiente protegiendo al operador."
+  },
+  {
+    "id": 107,
+    "tipo": "comun",
+    "com": null,
+    "q": "47. La prueba del Mantoux se utiliza para el diagnóstico de:",
+    "opts": [
+      "Mycobacterium tuberculosis.",
+      "Salmonella.",
+      "Legionella pneumophila.",
+      "Bacillus cereus."
+    ],
+    "correct": 0,
+    "expl": "La intradermorreactión de Mantoux (PPD) evalúa la respuesta inmune frente a Mycobacterium tuberculosis."
+  },
+  {
+    "id": 108,
+    "tipo": "comun",
+    "com": null,
+    "q": "48. ¿Cómo definimos una solución tampón?:",
+    "opts": [
+      "Un ácido fuerte con una base débil.",
+      "Un ácido débil en solución con su base conjugada en forma de sal.",
+      "Una sal de ácido fuerte con una sal de ácido débil.",
+      "Ninguna es correcta."
+    ],
+    "correct": 1,
+    "expl": "Una solución amortiguadora o buffer se compone de un ácido/base débil y su correspondiente par conjugado salino."
+  },
+  {
+    "id": 109,
+    "tipo": "comun",
+    "com": null,
+    "q": "49. ¿A qué se atribuye el olor característico de la orina?:",
+    "opts": [
+      "A la cantidad de iones circulantes en orina.",
+      "A la presencia de metabolitos inactivos de la peroxidasa.",
+      "A la presencia de cloro en la composición de la orina.",
+      "A la presencia de ácidos volátiles."
+    ],
+    "correct": 3,
+    "expl": "El aroma característico de la orina fresca se debe fundamentalmente a la presencia de ácidos orgánicos volátiles."
+  },
+  {
+    "id": 110,
+    "tipo": "comun",
+    "com": null,
+    "q": "50. En el Infarto Agudo de Miocardio, ¿cuándo empiezan a elevarse las troponinas?:",
+    "opts": [
+      "A las 12 horas.",
+      "A las 36 horas.",
+      "A las 48 horas.",
+      "A las 4-6 horas."
+    ],
+    "correct": 3,
+    "expl": "Las troponinas cardíacas (cTnI y cTnT) comienzan a elevarse en plasma a las 4-6 horas de producirse la lesión isquémica."
+  },
+  {
+    "id": 111,
+    "tipo": "comun",
+    "com": null,
+    "q": "51. Ante una hepatitis D, lo primero que haremos es valorar el estado inmunitario ante la:",
+    "opts": [
+      "Hepatitis D.",
+      "Hepatitis A.",
+      "Hepatitis C.",
+      "Hepatitis B."
+    ],
+    "correct": 3,
+    "expl": "El virus de la hepatitis D (VHD) es un virus defectivo que requiere la co-infección o sobreinfección del VHB para su replicación."
+  },
+  {
+    "id": 112,
+    "tipo": "comun",
+    "com": null,
+    "q": "52. Respecto al tratamiento de residuos biológicos:",
+    "opts": [
+      "El material propio de la actividad sanitaria como agujas, gasas con sangre etc., solo se convierte en residuo biológico cuando se desecha definitivamente.",
+      "La sangre y hemoderivados se vierten por el desagüe general.",
+      "Si el recipiente de residuo biológico es difícil de abrir, se agujerea por un lateral, por donde menos perjudique su posterior cierre.",
+      "Las agujas se tiran a la basura con el capuchón puesto para que la limpiadora no se pinche."
+    ],
+    "correct": 0,
+    "expl": "Los objetos o materiales adquieren la consideración de residuo sanitario en el momento exacto en que son desechados tras su uso."
+  },
+  {
+    "id": 113,
+    "tipo": "comun",
+    "com": null,
+    "q": "53. De los siguientes compuestos, no se considera un antibiótico:",
+    "opts": [
+      "Tetraciclina.",
+      "Estreptomicina.",
+      "Interferón.",
+      "Penicilina."
+    ],
+    "correct": 2,
+    "expl": "El interferón es una citocina glucoproteica producida por el sistema inmunitario con actividad antiviral/inmunomoduladora."
+  },
+  {
+    "id": 114,
+    "tipo": "comun",
+    "com": null,
+    "q": "54. ¿Cuáles son los parámetros de calidad dentro de un laboratorio de análisis clínico?:",
+    "opts": [
+      "La eficacia de la resolución de incidencias.",
+      "El grado de cumplimiento de plazos.",
+      "La fiabilidad de los resultados emitidos.",
+      "Todas las respuestas anteriores son ciertas."
+    ],
+    "correct": 3,
+    "expl": "Los indicadores de calidad del laboratorio abarcan tiempos de respuesta, fiabilidad analítica y gestión de incidencias."
+  },
+  {
+    "id": 115,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "55. Se consideran faltas disciplinarias leves del personal estatutario (señale la respuesta correcta) (Ley 5/2001, de 5 de diciembre, de personal estatutario del SMS):",
+    "opts": [
+      "El incumplimiento del deber de respeto a la Constitución o al Estatuto de Autonomía.",
+      "El abandono del servicio.",
+      "El notorio incumplimiento de las funciones esenciales que le correspondan.",
+      "La incorrección con el personal o los usuarios."
+    ],
+    "correct": 3,
+    "expl": "Según el régimen disciplinario, la falta de consideración o incorrección leve con los usuarios o compañeros es falta leve."
+  },
+  {
+    "id": 116,
+    "tipo": "comun",
+    "com": null,
+    "q": "56. El microscopio de campo oscuro se utiliza principalmente para:",
+    "opts": [
+      "Detectar reacciones inmunológicas.",
+      "Poner de manifiesto diferencias en las células no discernibles por otros métodos ópticos.",
+      "Aumentar el poder de resolución debido a la luz ultravioleta.",
+      "Observación de microorganismos sin teñir suspendidos en líquido."
+    ],
+    "correct": 3,
+    "expl": "El campo oscuro destaca bacterias móviles o espiroquetas (ej. Treponema pallidum) no teñidas sobre un fondo negro."
+  },
+  {
+    "id": 117,
+    "tipo": "comun",
+    "com": null,
+    "q": "57. Para el diagnóstico de las talasemias puede ayudar el hemograma. Habitualmente, ¿qué será común?:",
+    "opts": [
+      "Poliglobulia.",
+      "Anemia microcítica.",
+      "Aumento de la metahemoglobina.",
+      "Neutropenia."
+    ],
+    "correct": 1,
+    "expl": "Las talasemias se caracterizan analíticamente por presentar microcitosis importante con un número normal o elevado de hematíes."
+  },
+  {
+    "id": 118,
+    "tipo": "comun",
+    "com": null,
+    "q": "58. Streptococcus pneumoniae es:",
+    "opts": [
+      "Alfa hemolítico.",
+      "Beta hemolítico.",
+      "No hemolítico.",
+      "Gamma hemolítico."
+    ],
+    "correct": 0,
+    "expl": "Streptococcus pneumoniae produce una hemólisis incompleta o α-hemólisis (halo verdoso en agar sangre)."
+  },
+  {
+    "id": 119,
+    "tipo": "comun",
+    "com": null,
+    "q": "59. La orina de 24 horas es la más utilizada en el laboratorio clínico de:",
+    "opts": [
+      "Urgencia.",
+      "Toxicología.",
+      "Bioquímica del metabolismo intermedio.",
+      "Microbiología."
+    ],
+    "correct": 2,
+    "expl": "La recolección de 24 horas es indispensable para cuantificar depuraciones, aclaramiento de creatinina y excreciones metabólicas."
+  },
+  {
+    "id": 120,
+    "tipo": "comun",
+    "com": null,
+    "q": "60. ¿Cuál de los siguientes marcadores tumorales no es proteico?:",
+    "opts": [
+      "CEA.",
+      "Inmunoglobulinas.",
+      "Cortisol.",
+      "AFP."
+    ],
+    "correct": 2,
+    "expl": "El cortisol es una hormona esteroidea (lípido derivado del colesterol), a diferencia de las glucoproteínas CEA, AFP e Igs."
+  },
+  {
+    "id": 121,
+    "tipo": "comun",
+    "com": null,
+    "q": "61. ¿Qué vitamina es imprescindible para la síntesis de algunos de los factores de la coagulación, así como de las proteínas C y S?:",
+    "opts": [
+      "Vitamina E.",
+      "Vitamina D.",
+      "Vitamina A.",
+      "Vitamina K."
+    ],
+    "correct": 3,
+    "expl": "La vitamina K es cofactor esencial en la carboxilación gamma de los factores II, VII, IX, X y proteínas C y S."
+  },
+  {
+    "id": 122,
+    "tipo": "comun",
+    "com": null,
+    "q": "62. ¿Qué determinación no precisa una muestra con anticoagulante?:",
+    "opts": [
+      "Tiempo de protrombina.",
+      "Tiempo de coagulación.",
+      "Glucosa basal.",
+      "Hemoglobina."
+    ],
+    "correct": 1,
+    "expl": "La determinación del tiempo de coagulación (ej. método de Lee-White) se efectúa directamente sobre sangre entera sin anticoagulante."
+  },
+  {
+    "id": 123,
+    "tipo": "comun",
+    "com": null,
+    "q": "63. El Agar MacConkey se utiliza para la detección de:",
+    "opts": [
+      "Bacterias Gram positivas.",
+      "Bacterias anaerobias estrictas.",
+      "Enterobacterias.",
+      "Estreptococos."
+    ],
+    "correct": 2,
+    "expl": "El Agar MacConkey es un medio selectivo y diferencial que inhibe Gram positivos y permite el crecimiento de enterobacterias."
+  },
+  {
+    "id": 124,
+    "tipo": "comun",
+    "com": null,
+    "q": "64. El objetivo de la calidad de un laboratorio es responsabilidad de:",
+    "opts": [
+      "El jefe del laboratorio.",
+      "El supervisor del laboratorio.",
+      "Todo el personal del laboratorio.",
+      "La unidad de calidad del hospital."
+    ],
+    "correct": 2,
+    "expl": "El compromiso con el sistema de gestión de la calidad incumbe de forma transversal a la totalidad del personal del laboratorio."
+  },
+  {
+    "id": 125,
+    "tipo": "comun",
+    "com": null,
+    "q": "65. Los hematíes procedentes de una única donación de sangre de la que se ha eliminado gran parte del plasma y también la capa leucocitaria y a la que se añade una solución nutritiva o conservadora, se denomina:",
+    "opts": [
+      "Hematíes leucodeplecionados.",
+      "Hematíes obtenidos por aféresis.",
+      "Hematíes sin capa leucocitaria, en solución aditiva.",
+      "Hematíes en solución aditiva."
+    ],
+    "correct": 2,
+    "expl": "Corresponde al concentrado de hematíes desprovisto de la capa leucoplaquetaria (buffy coat) resuspendido en solución aditiva (SAG-Manitol)."
+  },
+  {
+    "id": 126,
+    "tipo": "comun",
+    "com": null,
+    "q": "66. En relación con las determinaciones enzimáticas: ¿cuál de estas afirmaciones es cierta?:",
+    "opts": [
+      "Ninguna soporta temperaturas superiores a 70 °C.",
+      "Se valoran en razón de su concentración.",
+      "La gran mayoría se inactivan a 6 °C",
+      "Todas las anteriores son falsas."
+    ],
+    "correct": 3,
+    "expl": "Las tres opciones previas son falsas: existen enzimas termófilas resistentes a >70ºC, la actividad enzimática se mide en U/L (no masa/concentración directo) y no se inactivan a 6ºC."
+  },
+  {
+    "id": 127,
+    "tipo": "comun",
+    "com": null,
+    "q": "67. La técnica para la preparación de extensiones de médula ósea es:",
+    "opts": [
+      "Técnica por aplastamiento.",
+      "Técnica del portaobjetos en cuña.",
+      "Técnica del portaobjetos extensor.",
+      "A y B son ciertas."
+    ],
+    "correct": 3,
+    "expl": "Para estudiar el aspirado medular se emplean rutinariamente las técnicas de frotis en cuña y de compresión o aplastamiento (squash)."
+  },
+  {
+    "id": 128,
+    "tipo": "comun",
+    "com": null,
+    "q": "68. El principio ético de no maleficencia se refiere a:",
+    "opts": [
+      "El paciente no puede negarse a que se le practique una prueba que pueda salvarle la vida.",
+      "No emprender acciones inútiles que vayan a causar daño al paciente.",
+      "Aunque al paciente no le beneficie, es un bien para la ciencia.",
+      "Hay que hacer siempre el mayor número de pruebas posibles."
+    ],
+    "correct": 1,
+    "expl": "'Primum non nocere': el principio de no maleficencia obliga a no realizar actos que perjudiquen o dañen innecesariamente al paciente."
+  },
+  {
+    "id": 129,
+    "tipo": "comun",
+    "com": null,
+    "q": "69. Para realizar estudios de histocompatibilidad, se puede utilizar:",
+    "opts": [
+      "La técnica de microlinfocitotoxicidad.",
+      "La prueba cruzada o cross-match.",
+      "La detección de anticuerpos anti-HLA.",
+      "Hay más de una respuesta correcta."
+    ],
+    "correct": 3,
+    "expl": "La caracterización HLA y la tipificación de histocompatibilidad emplean tanto la microlinfocitotoxicidad como la prueba cruzada y la detección de anticuerpos anti-HLA."
+  },
+  {
+    "id": 130,
+    "tipo": "comun",
+    "com": null,
+    "q": "70. Una técnica empleada habitualmente para la determinación de proteínas en orina es:",
+    "opts": [
+      "Fotometría de llama.",
+      "Fluorimetría.",
+      "Refractometría.",
+      "Turbidimetría."
+    ],
+    "correct": 3,
+    "expl": "La turbidimetría (utilizando ácido sulfosalicílico o cloruro de benzetonio) es el método automatizado común para cuantificar proteinuria."
+  },
+  {
+    "id": 131,
+    "tipo": "comun",
+    "com": null,
+    "q": "71. El método de esterilización por calor húmedo se lleva a cabo mediante:",
+    "opts": [
+      "Autoclave.",
+      "Estufa poupinel.",
+      "Cámara de rayos ultravioleta.",
+      "Líquidos desinfectantes."
+    ],
+    "correct": 0,
+    "expl": "El autoclave logra la esterilización por vapor de agua saturado bajo presión (calor húmedo)."
+  },
+  {
+    "id": 132,
+    "tipo": "comun",
+    "com": null,
+    "q": "72. La determinación de calprotectina fecal es útil para el manejo de:",
+    "opts": [
+      "Insuficiencia pancreática.",
+      "Malabsorción intestinal.",
+      "Insuficiencia hepática.",
+      "Inflamación intestinal."
+    ],
+    "correct": 3,
+    "expl": "La calprotectina fecal es un marcador bioquímico no invasivo de inflamación intestinal (útil en Enfermedad Inflamatoria Intestina)."
+  },
+  {
+    "id": 133,
+    "tipo": "comun",
+    "com": null,
+    "q": "73. ¿Qué debe de utilizar quien trabaja en un laboratorio clínico para evitar el riesgo biológico?:",
+    "opts": [
+      "Bata quirúrgica de manga larga con puño, guantes industriales, gafas protectoras, mascarilla quirúrgica.",
+      "Bata cerrada por delante, guantes de un solo uso, gafas protectoras, mascarilla.",
+      "Bata, botas, delantal que retenga el agua, guantes dobles, gafas protectoras, mascarilla.",
+      "Delantal plomado, guantes, gafas protectoras, mascarilla."
+    ],
+    "correct": 1,
+    "expl": "Es el conjunto habitual de Equipos de Protección Individual (EPI) recomendado para barrera de bioseguridad."
+  },
+  {
+    "id": 134,
+    "tipo": "comun",
+    "com": null,
+    "q": "74. En relación con las pruebas hepáticas, ¿cuál de estas pruebas no se realiza ante una hepatopatía?:",
+    "opts": [
+      "Marcadores de hepatitis.",
+      "Factores de coagulación.",
+      "Proteinograma.",
+      "Se pueden realizar todas."
+    ],
+    "correct": 3,
+    "expl": "Ante la sospecha o evaluación de hepatopatía se evalúa etiología (marcadores), función de síntesis (coagulación y albúmina/proteinograma)."
+  },
+  {
+    "id": 135,
+    "tipo": "comun",
+    "com": null,
+    "q": "75. En biología molecular, se conoce como astringencia:",
+    "opts": [
+      "Al grado de afinidad de la polimerasa por su ácido nucleico diana.",
+      "Al grado de interés o afinidad de la sonda por su ácido nucleico diana.",
+      "Al grado de radioactividad no fijada mediante solución de lavado.",
+      "Al grado de hibridación a través de las diferentes fuerzas iónicas."
+    ],
+    "correct": 3,
+    "expl": "La astringencia define las condiciones de temperatura y fuerza iónica que determinan la especificidad del apareamiento/hibridación de ácidos nucleicos."
+  },
+  {
+    "id": 136,
+    "tipo": "comun",
+    "com": null,
+    "q": "76. En bacteriología, el antígeno O se localiza en:",
+    "opts": [
+      "Las fimbrias.",
+      "Los flagelos.",
+      "La pared celular.",
+      "La cápsula."
+    ],
+    "correct": 2,
+    "expl": "El antígeno O Somático es la cadena de polisacárido externa presente en el lipopolisacárido (LPS) de la pared de bacterias Gram-negativas."
+  },
+  {
+    "id": 137,
+    "tipo": "comun",
+    "com": null,
+    "q": "77. ¿Cuál de estas afirmaciones es correcta, respecto a la monitorización de aminoglicósidos?:",
+    "opts": [
+      "Hay que esperar 12 horas después de la administración de estos fármacos.",
+      "Se determinan en orina.",
+      "Se miden concentraciones pico y valle.",
+      "No se monitorizan frecuentemente."
+    ],
+    "correct": 2,
+    "expl": "Para optimizar la eficacia y evitar toxicidad renal/auditiva se miden los niveles pico (eficacia) y valle (toxicidad)."
+  },
+  {
+    "id": 138,
+    "tipo": "comun",
+    "com": null,
+    "q": "78. ¿Qué colorante se utiliza para el recuento diferencial de leucocitos en el líquido cefalorraquídeo?:",
+    "opts": [
+      "Violeta genciana.",
+      "Violeta cristal.",
+      "Azul de metileno.",
+      "Wright."
+    ],
+    "correct": 3,
+    "expl": "La tinción de Wright (o May-Grünwald-Giemsa) es la tinción pancromática estándar utilizada en citología de LCR."
+  },
+  {
+    "id": 139,
+    "tipo": "comun",
+    "com": null,
+    "q": "79. La prueba de Coombs indirecta está basada en una reacción de:",
+    "opts": [
+      "Precipitación.",
+      "Opsonización.",
+      "Hemaglutinación.",
+      "Sedimentación."
+    ],
+    "correct": 2,
+    "expl": "Al aglutinar los hematíes mediante la adición del suero de Coombs (antiglobulina humana), se trata de una reacción de hemaglutinación."
+  },
+  {
+    "id": 140,
+    "tipo": "comun",
+    "com": null,
+    "q": "80. ¿Qué tipo de muestra NO se utiliza habitualmente para la monitorización de fármacos?:",
+    "opts": [
+      "Sangre total.",
+      "Plasma.",
+      "Orina.",
+      "Suero."
+    ],
+    "correct": 2,
+    "expl": "La monitorización terapéutica de fármacos (TDM) se realiza en suero/plasma (o sangre total), mientras que la orina se reserva para cribado toxicológico."
+  },
+  {
+    "id": 141,
+    "tipo": "comun",
+    "com": null,
+    "q": "81. La principal función de los eosinófilos es:",
+    "opts": [
+      "Fagocitar bacterias.",
+      "Intervenir en la inmunidad antitumoral.",
+      "Pasar a los tejidos y transformarse en macrófagos.",
+      "Intervenir en reacciones alérgicas y antiparasitarias."
+    ],
+    "correct": 3,
+    "expl": "Los eosinófilos participan de forma predominante en respuestas alérgicas (hipersensibilidad tipo I) y la defensa frente a helmintos."
+  },
+  {
+    "id": 142,
+    "tipo": "comun",
+    "com": null,
+    "q": "82. La inmunoglobulina M:",
+    "opts": [
+      "Suele aparecer en momentos precoces de la infección.",
+      "Es el anticuerpo que se produce en reacciones alérgicas agudas.",
+      "Solo indica que ha habido una infección pasada o crónica.",
+      "No se encuentra en la sangre."
+    ],
+    "correct": 0,
+    "expl": "La IgM es el primer anticuerpo producido en la respuesta inmunitaria primaria (fase aguda de la infección)."
+  },
+  {
+    "id": 143,
+    "tipo": "comun",
+    "com": null,
+    "q": "83. La relación entre la calidad obtenida y los recursos y costes empleados se llama:",
+    "opts": [
+      "Garantía de calidad.",
+      "Eficacia.",
+      "Efectividad.",
+      "Eficiencia."
+    ],
+    "correct": 3,
+    "expl": "La eficiencia evalúa el logro de los objetivos óptimos con el mínimo uso posible de recursos y costos."
+  },
+  {
+    "id": 144,
+    "tipo": "comun",
+    "com": null,
+    "q": "84. Señale cuál no es uno de los cuatro principios éticos básicos:",
+    "opts": [
+      "Compasión.",
+      "No maledicencia.",
+      "Beneficencia.",
+      "Autonomía."
+    ],
+    "correct": 0,
+    "expl": "Los cuatro principios de la bioética principialista (Beauchamp y Childress) son Autonomía, Beneficencia, No maledicencia y Justicia."
+  },
+  {
+    "id": 145,
+    "tipo": "comun",
+    "com": null,
+    "q": "85. Si observamos una muestra de heces con tonalidades negras pensaremos:",
+    "opts": [
+      "Que el paciente está tomando hierro.",
+      "Que el paciente es vegetariano.",
+      "Que el paciente presenta una infección bacteriana.",
+      "No se pueden encontrar heces de esta tonalidad."
+    ],
+    "correct": 0,
+    "expl": "La ingesta oral de suplementos de hierro (o subsalicilato de bismuto) tiñe característicamente las heces de color negro."
+  },
+  {
+    "id": 146,
+    "tipo": "comun",
+    "com": null,
+    "q": "86. Las células que atacan la membrana plasmática de células del propio organismo infectadas o que puedan ser cancerígenas, se denominan:",
+    "opts": [
+      "Células NK (Natural Killer).",
+      "Plaquetas.",
+      "Basófilos.",
+      "Eosinófilos."
+    ],
+    "correct": 0,
+    "expl": "Las células NK son linfocitos citotóxicos de la inmunidad innata que eliminan células infectadas por virus o transformadas tumorales."
+  },
+  {
+    "id": 147,
+    "tipo": "comun",
+    "com": null,
+    "q": "87. Con respecto a la compensación del equilibrio ácido-base de tipo pulmonar:",
+    "opts": [
+      "Es rápida, comienza en minutos y se estabiliza en 24 horas.",
+      "Ante un aumento de pH (alcalosis), se tiende a hipoventilar para elevar la pCO2​.",
+      "Ante un descenso de pH (acidosis), se tiende a hiperventilar para disminuir la pCO2​.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "correct": 3,
+    "expl": "Todas las afirmaciones describen los mecanismos y la rapidez fisiológica de la compensación respiratoria del pH."
+  },
+  {
+    "id": 148,
+    "tipo": "comun",
+    "com": null,
+    "q": "88. En la observación y búsqueda de leucocitos en heces en procesos diarreicos:",
+    "opts": [
+      "Se necesitan tres muestras secuenciales.",
+      "La presencia de leucocitos en heces en la evaluación microscópica puede ser la única \"pista\" acerca de la existencia de inflamación.",
+      "El microscopio debe ser de luz polarizada.",
+      "No añade información al clínico."
+    ],
+    "correct": 1,
+    "expl": "La presencia de polimorfonucleares en el frotis fecal orienta rápidamente hacia una diarrea de etiología inflamatoria/invasiva."
+  },
+  {
+    "id": 149,
+    "tipo": "comun",
+    "com": null,
+    "q": "89. Es una competencia profesional, personal o social del título de Técnico Superior en Laboratorio Clínico y Biomédico:",
+    "opts": [
+      "Realizar técnicas de análisis hematológico, siguiendo los protocolos establecidos.",
+      "Garantizar la calidad del proceso, asegurando la trazabilidad, según los protocolos establecidos.",
+      "Asegurar el cumplimiento de las normas y medidas de protección ambiental y personal, identificando la normativa aplicable.",
+      "Hay más de una respuesta correcta."
+    ],
+    "correct": 3,
+    "expl": "La cualificación del título contempla la ejecución de técnicas analíticas así como la gestión de calidad y bioseguridad."
+  },
+  {
+    "id": 150,
+    "tipo": "comun",
+    "com": null,
+    "q": "90. ¿Cuál es la muestra de elección por razones técnicas y prácticas en el cribado de las drogas de abuso?:",
+    "opts": [
+      "Sangre.",
+      "Orina.",
+      "Saliva.",
+      "Heces."
+    ],
+    "correct": 1,
+    "expl": "La orina es la muestra biológica no invasiva de elección por su amplia ventana de detección y sencillez analítica."
+  },
+  {
+    "id": 151,
+    "tipo": "comun",
+    "com": null,
+    "q": "91. En relación con los isoenzimas: ¿cuál de estas enzimas presenta un isoenzima que se altera en una patología placentaria?:",
+    "opts": [
+      "GPT.",
+      "ALP.",
+      "CK.",
+      "GOT."
+    ],
+    "correct": 1,
+    "expl": "La fosfatasa alcalina (ALP) posee la isoenzima placentaria, producida por el sincitiotrofoblasto."
+  },
+  {
+    "id": 152,
+    "tipo": "comun",
+    "com": null,
+    "q": "92. Para la visualización de la cápsula en las bacterias, se utiliza:",
+    "opts": [
+      "Tinción de Gram.",
+      "Tinción simple con azul de metileno diluido.",
+      "Tinción con verde de malaquita.",
+      "Tinción negativa."
+    ],
+    "correct": 3,
+    "expl": "La tinción negativa (con tinta china o nigrosina) permite resaltar la cápsula clara al no poder ser penetrada por el contraste."
+  },
+  {
+    "id": 153,
+    "tipo": "comun",
+    "com": null,
+    "q": "93. La diferencia fundamental entre turbidimetría y nefelometría radica en:",
+    "opts": [
+      "El recipiente utilizado para la suspensión problema.",
+      "El monocromador.",
+      "La situación del detector respecto al rayo incidente.",
+      "El detector de radiaciones."
+    ],
+    "correct": 2,
+    "expl": "La turbidimetría mide la luz transmitida en la misma dirección (180º) y la nefelometría mide la luz dispersada en ángulo (generalmente 90º)."
+  },
+  {
+    "id": 154,
+    "tipo": "legislacion",
+    "com": "Región de Murcia",
+    "q": "94. El siguiente documento no forma parte de la historia clínica de un paciente:",
+    "opts": [
+      "Hojas de evolución.",
+      "Informe de alta.",
+      "Sistemas de información del laboratorio.",
+      "Resultados de pruebas complementarias."
+    ],
+    "correct": 2,
+    "expl": "Los sistemas de información del laboratorio (SIL/LIS) son el software de gestión, no un documento del expediente del paciente."
+  },
+  {
+    "id": 155,
+    "tipo": "comun",
+    "com": null,
+    "q": "95. El reactivo de Kovacs se utiliza en la prueba de:",
+    "opts": [
+      "Nitratos.",
+      "Voges-prokauer.",
+      "Indol.",
+      "PDA."
+    ],
+    "correct": 2,
+    "expl": "El reactivo de Kovacs (p-dimetilaminobenzaldehído) se utiliza para revelar la producción de indol a partir de triptófano."
+  },
+  {
+    "id": 156,
+    "tipo": "comun",
+    "com": null,
+    "q": "96. ¿Qué tipo de apoproteínas presentan las lipoproteínas HDL?:",
+    "opts": [
+      "Apo C.",
+      "Apo B.",
+      "Apo A-I.",
+      "Las respuestas A y C son correctas."
+    ],
+    "correct": 3,
+    "expl": "Las HDL contienen predominantemente Apo A-I como proteína estructural, además de transferir Apo C a otras lipoproteínas."
+  },
+  {
+    "id": 157,
+    "tipo": "comun",
+    "com": null,
+    "q": "97. Las hormonas sexuales:",
+    "opts": [
+      "Son hormonas esteroideas.",
+      "Son sintetizadas en la hipófisis.",
+      "Son hormonas proteicas.",
+      "Están fuera del control hipotálamo-hipófisis."
+    ],
+    "correct": 0,
+    "expl": "Estrógenos, progesterona y andrógenos son hormonas de naturaleza esteroidea derivadas de la estructura del colesterol."
+  },
+  {
+    "id": 158,
+    "tipo": "comun",
+    "com": null,
+    "q": "98. Las hormonas tiroideas circulan ligadas a:",
+    "opts": [
+      "Albúmina.",
+      "Tiroglobulina (TBG).",
+      "Gammaglobulinas.",
+      "A y B."
+    ],
+    "correct": 3,
+    "expl": "Las hormonas tiroideas T3 y T4 se transportan en la sangre unidas mayoritariamente a la globulina fijadora de tiroxina (TBG) y en menor grado a la albúmina."
+  },
+  {
+    "id": 159,
+    "tipo": "comun",
+    "com": null,
+    "q": "99. El modelo EFQM de excelencia puede ser aplicado:",
+    "opts": [
+      "En organizaciones de servicios.",
+      "A determinadas organizaciones, dependiendo de su tamaño, sector o antigüedad.",
+      "A cualquier organización.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correct": 2,
+    "expl": "El modelo EFQM es un marco de gestión de calidad universal y no prescriptivo aplicable a todo tipo de organizaciones."
+  },
+  {
+    "id": 160,
+    "tipo": "comun",
+    "com": null,
+    "q": "100. Señale la característica falsa de los sistemas de pruebas a la cabecera del paciente (POCT):",
+    "opts": [
+      "Proporcionan resultados de manera rápida.",
+      "Proporcionan resultados de mayor calidad analítica.",
+      "Permiten el análisis en el lugar de la asistencia médica.",
+      "Pueden ser manipulados por personas no expertas en procedimientos analíticos."
+    ],
+    "correct": 1,
+    "expl": "Aunque son rápidos y accesibles, los sistemas POCT suelen ofrecer menor precisión/calidad analítica comparados con los analizadores centralizados del laboratorio."
+  }
+]
